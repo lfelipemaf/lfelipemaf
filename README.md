@@ -1,8 +1,8 @@
 ## Luiz Felipe Moriondo Alves Filho
 <div>
-<a href="https://instagram.com/lfelipemaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lfelipemaf@icloud.com"><img src="https://img.shields.io/badge/-iCloud-gray?logo=apple&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipemoriondo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/lfelipemaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lfelipemaf@icloud.com"><img src="https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipemoriondo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ### About me!
@@ -17,12 +17,12 @@ If you're seeking a driven professional who combines the power of creativity, da
 
 #### Tools and Technologies
 
-<img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Github-black?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" /> 
 
 --------------------------
 #### Learning
 
-<img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
 
 <br/>
 <br/>
