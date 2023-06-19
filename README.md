@@ -1,7 +1,7 @@
 ## Luiz Felipe Moriondo Alves Filho
 <div>
 <a href="https://instagram.com/lfelipemaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lfelipemaf@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:lfelipemaf@icloud.com"><img src="https://img.shields.io/badge/-iCloud-gray?logo=apple&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipemoriondo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
@@ -17,13 +17,13 @@ If you're seeking a driven professional who combines the power of creativity, da
 
 #### Tools and Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white" width="40" height="40"/> <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white" width="40" height="40"/> <img src="https://img.shields.io/badge/-Github-black?logo=github&logoColor=white" width="40" height="40"/> <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" width="40" height="40"/> 
 
 --------------------------
 #### Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-          
+<img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white" width="40" height="40"/>
+
 <br/>
 <br/>
 
