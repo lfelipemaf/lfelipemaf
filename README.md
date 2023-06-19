@@ -1,16 +1,34 @@
-### Hi there 👋
+## Luiz Felipe Moriondo Alves Filho
+<div>
+<a href="https://instagram.com/lfelipemaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lfelipemaf@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipemoriondo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-<!--
-**lfelipemaf/lfelipemaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me!
+Experienced professional and devoted family man, I am proud to be a father to an incredible boy and blessed with a strong partnership with my amazing wife. Passionate about thriving in fast-paced environments, I thrive on leveraging my creativity to solve complex problems and drive data-driven insights.
 
-Here are some ideas to get you started:
+With a track record of success in dynamic workplaces, I am adept at navigating high-pressure situations and delivering innovative solutions. My keen eye for detail and analytical mindset enable me to develop comprehensive studies rooted in data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond my commitment to excellence in problem-solving, I possess a genuine passion for continuous learning and personal growth. Always seeking to broaden my horizons, I actively engage in industry trends and cutting-edge technologies to stay ahead of the curve.
+
+If you're seeking a driven professional who combines the power of creativity, data, and a strong work ethic, I welcome the opportunity to connect and explore how I can contribute to your organization's success.
+
+
+#### Tools and Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+
+--------------------------
+#### Learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+          
+<br/>
+<br/>
+
+<div>
+<a href="https://github.com/lfelipemaf">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipemaf&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lfelipemaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
