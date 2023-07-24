@@ -17,7 +17,7 @@ If you're seeking a driven professional who combines the power of creativity, da
 
 #### Tools and Technologies
 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS-#1572B6?logo=css3&logoColor=white" /> 
 
 --------------------------
 #### Learning
