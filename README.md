@@ -1,34 +1,40 @@
-## Luiz Felipe Moriondo Alves Filho
-<div>
-<a href="https://instagram.com/lfelipemaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lfelipemaf@icloud.com"><img src="https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipemoriondo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+# 👋 Luiz Felipe Moriondo Alves Filho
 
-### About me!
-Experienced professional and devoted family man, I am proud to be a father to an incredible boy and blessed with a strong partnership with my amazing wife. Passionate about thriving in fast-paced environments, I thrive on leveraging my creativity to solve complex problems and drive data-driven insights.
+Hi, I'm **Luiz Felipe** — a data analyst with experience in **SQL**, **Python**, **PySpark**, and cloud-based analytics platforms like **Databricks** and **BigQuery**.
 
-With a track record of success in dynamic workplaces, I am adept at navigating high-pressure situations and delivering innovative solutions. My keen eye for detail and analytical mindset enable me to develop comprehensive studies rooted in data-driven decision-making.
+## 🚀 About Me
+- 🎯 I specialize in building scalable data pipelines, transforming raw data into actionable insights.
+- 📊 I support strategic decisions by developing clean, reliable metrics and dashboards.
+- 💼 Currently at **PicPay**, working on data modeling, performance analysis, and automation.
 
-Beyond my commitment to excellence in problem-solving, I possess a genuine passion for continuous learning and personal growth. Always seeking to broaden my horizons, I actively engage in industry trends and cutting-edge technologies to stay ahead of the curve.
+## 🛠️ Skills & Tools
+**Languages**:  
+`Python`, `SQL`
 
-If you're seeking a driven professional who combines the power of creativity, data, and a strong work ethic, I welcome the opportunity to connect and explore how I can contribute to your organization's success.
+**Frameworks / Libraries**:  
+`PySpark`, `Pandas`, `BeautifulSoup`
 
+**Platforms**:  
+`Databricks`, `GCP (BigQuery, Cloud Storage)`, `Power BI`
 
-#### Tools and Technologies
+**Dev Tools**:  
+`Git`, `Jupyter Notebook`, `VS Code`, `Sublime Text`
 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS-#1572B6?logo=css3&logoColor=white" /> 
+## 📍 Location
+Vitória, ES, Brazil 🇧🇷
 
---------------------------
-#### Learning
+## 📚 Currently Learning
+- Machine Learning with `scikit-learn`
+- Dashboard development with `Streamlit`
+- Public API integrations (e.g., `Brawl Stars API`)
 
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemoriondo) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lfelipemaf) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lfelipemaf)
 
-<br/>
-<br/>
+---
 
-<div>
-<a href="https://github.com/lfelipemaf">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipemaf&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lfelipemaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+> "Data is only as valuable as the story you tell with it."
+
+Thanks for stopping by!
